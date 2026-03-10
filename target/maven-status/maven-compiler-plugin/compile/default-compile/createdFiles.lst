@@ -1,0 +1,7 @@
+model\Emprestimo.class
+view\BibliotecaView$1.class
+program\Main.class
+view\BibliotecaView.class
+model\Livro.class
+model\Usuario.class
+controllers\BibliotecaController.class
